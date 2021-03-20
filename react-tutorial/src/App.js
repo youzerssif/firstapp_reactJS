@@ -29,7 +29,7 @@ class App extends Component {
       <div className="App">
         <h1>Hello, React!</h1>
         <div className="container">
-        <Table />
+        <Table characterData={characters} />
       </div>
       </div>
       
