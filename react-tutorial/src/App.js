@@ -6,8 +6,6 @@ import { Component } from 'react';
 
 
 
-
-
 class App extends Component {
 
   state = {
@@ -39,7 +37,13 @@ class App extends Component {
       }),
     })
   }
-  
+
+  // addElement = (index) =>{
+  //   const {characters} = this.state
+  //   this.setState({
+  //     characters: characters[index] = {name:'jobssss'}
+  //   })
+  // }
   render() {
 
     const { characters } = this.state
@@ -48,7 +52,7 @@ class App extends Component {
       <div className="App">
         <h1>Hello, React!</h1>
         <div className="container">
-          <Table characterData={characters} removeCharacter={this.removeCharacter} />
+          <Table characterData={characters} removeCharacter={this.removeCharacter} addElement={this.addElement} />
         </div>
       </div>
       

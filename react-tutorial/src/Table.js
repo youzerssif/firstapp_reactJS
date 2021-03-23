@@ -23,6 +23,9 @@ const TableBody = (props) =>{
         <td>
           <button onClick={() => props.removeCharacter(index)}>Delete</button>
         </td>
+        {/* <td>
+          <button onClick={() => props.addElement(index)}>Add</button>
+        </td> */}
       </tr>
     )
   })
@@ -32,7 +35,7 @@ const TableBody = (props) =>{
  
 
   const Table = (props) => {
-    const {characterData, removeCharacter} = props
+    const {characterData, removeCharacter,} = props
   
     return (
       <table>
