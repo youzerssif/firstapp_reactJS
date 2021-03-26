@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youzerssif/firstapp_reactJS/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/youzerssif/firstapp_reactJS/static/js/main.832f3f34.chunk.js",
+    "main.js.map": "/youzerssif/firstapp_reactJS/static/js/main.832f3f34.chunk.js.map",
+    "runtime-main.js": "/youzerssif/firstapp_reactJS/static/js/runtime-main.7cdc8460.js",
+    "runtime-main.js.map": "/youzerssif/firstapp_reactJS/static/js/runtime-main.7cdc8460.js.map",
+    "static/js/2.75a75e25.chunk.js": "/youzerssif/firstapp_reactJS/static/js/2.75a75e25.chunk.js",
+    "static/js/2.75a75e25.chunk.js.map": "/youzerssif/firstapp_reactJS/static/js/2.75a75e25.chunk.js.map",
+    "static/js/3.dac2e9a0.chunk.js": "/youzerssif/firstapp_reactJS/static/js/3.dac2e9a0.chunk.js",
+    "static/js/3.dac2e9a0.chunk.js.map": "/youzerssif/firstapp_reactJS/static/js/3.dac2e9a0.chunk.js.map",
+    "index.html": "/youzerssif/firstapp_reactJS/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/youzerssif/firstapp_reactJS/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.75a75e25.chunk.js.LICENSE.txt": "/youzerssif/firstapp_reactJS/static/js/2.75a75e25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cdc8460.js",
+    "static/js/2.75a75e25.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.832f3f34.chunk.js"
+  ]
+}
